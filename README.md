@@ -70,8 +70,8 @@ Each service:
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/ChannakyaNarra/Banking-Microservices-Application.git
-cd Banking-Microservices-Application
+git clone https://github.com/baluvemireddy/mybank-microservices.git
+cd mybank-microservices
 ```
 ---
 
